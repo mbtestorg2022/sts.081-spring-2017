@@ -42,10 +42,39 @@ Given the challenges to future federal science support, this course will aim to 
 Grading
 -------
 
-| Assignment | Percentage |
-| --- | --- |
-| Research Paper | 80% |
-| Participation | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Assignment
+{{< thclose >}}
+{{< thopen >}}
+Percentage
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research Paper
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 There will be no exam, but one-page summaries of readings for each class are required to ensure you are keeping up with the course concepts. Aside from the required research project and paper, this course is in significant part a discussion seminar where active, informed, thoughtful, and constructive class participation is a part of the assessment criteria for the course. Students are expected to attend all classes and to be fully prepared to engage in a critical review of the readings in each class; the required short issue summaries for class readings will greatly assist in that class participation preparation.
 
