@@ -45,7 +45,7 @@ Solow, Robert M. "[Robert M. Solow Prize Lecture: Growth Theory and After](https
 
 Jorgenson, Dale. "[U.S. Economic Growth in the Information Age](http://issues.org/18-1/jorgenson/)." _Issues in Science and Technology_ 18, no. 1 (2001).
 
-Romer, Paul. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Endogeneous Technological Change (PDF - 7.1MB)](http://pages.stern.nyu.edu/~promer/Endogenous.pdf)." _Journal of Political Economy_ 98 (1990): 72–102.
+Romer, Paul. "[Endogeneous Technological Change (PDF - 7.1MB)](http://pages.stern.nyu.edu/~promer/Endogenous.pdf)." _Journal of Political Economy_ 98 (1990): 72–102.
 
 "[Science and Engineering Indicators 2016](https://www.nsf.gov/statistics/2016/nsb20161/#/)." _NSF.gov_. National Science Board, 2016.
 
@@ -73,11 +73,11 @@ Atkinson, Robert. _The Past and Future of America's Economy: Long Waves of Innov
 
 Rycroft, Robert and Don Kash. "[Innovation Policy for Complex Technologies](http://www.issues.org/16-1/rycroft/)." _Issues in Science and Technology_ 16, no. 1 (Fall 1999).
 
-Milbergs, Egils. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[National Innovation Initiative: Valuing Long-Term Innovation Strategies (PDF)](http://www.accinnov.com/s/Valuing_Long_Term_Innovation_Strategies_133.pdf)." National Innovation Initiative, 2004.
+Milbergs, Egils. "[National Innovation Initiative: Valuing Long-Term Innovation Strategies (PDF)](http://www.accinnov.com/s/Valuing_Long_Term_Innovation_Strategies_133.pdf)." National Innovation Initiative, 2004.
 
 Gupta, Udayan, ed. _Done Deals: Venture Capitalists Tell Their Stories_. Harvard Business Review Press, 2000, pp. 1–11. ISBN: 9780875849386.
 
-Shultze, Charles. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Industrial Policy: A Dissent (PDF)](https://www.brookings.edu/wp-content/uploads/2016/06/industrial_policy_schultze.pdf)." _The Brookings Review_ 2, no. 1 (Fall 1983): 3–12.
+Shultze, Charles. "[Industrial Policy: A Dissent (PDF)](https://www.brookings.edu/wp-content/uploads/2016/06/industrial_policy_schultze.pdf)." _The Brookings Review_ 2, no. 1 (Fall 1983): 3–12.
 
 McKenzie, Richard. "[Industrial Policy](http://www.econlib.org/library/Enc1/IndustrialPolicy.html)." _The Concise Encyclopedia of Economics_, 2007.
 
@@ -109,7 +109,7 @@ Lynn, Barry. _End of the Line_. Doubleday, 2005, pp. 1–18. ISBN: 9780385510240
 
 Berger, Suzanne. _How We Compete: What Companies Around the World Are Doing to Make it in Today's Global Economy_. Crown Business, 2005, pp. 251–277. ISBN: 9780385513593.
 
-Fong, Glenn. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Follower at the Frontier: International Competition and Japanese Industrial Policy (PDF)](http://my.t-bird.edu/files/personalfiles/134802/ISQ.pdf)." _International Studies Quarterly_ 42, 3 (1998): 339–266.
+Fong, Glenn. "[Follower at the Frontier: International Competition and Japanese Industrial Policy (PDF)](http://my.t-bird.edu/files/personalfiles/134802/ISQ.pdf)." _International Studies Quarterly_ 42, 3 (1998): 339–266.
 
 Kim, Linsu. _Imitation to Innovation: The Dynamics of Korea's Technological Learning_. Harvard Business Review, 1997, pp. 192–213, 234–243. ISBN: 9780875845746.
 
@@ -127,19 +127,19 @@ The Challenge from Globalization for Advanced Manufacturing and New Services
 {{< tdopen >}}
 
 
-Samuelson, Paul. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Where Ricardo and Mill Rebut and Confirm Arguments of Mainstream Economists Supporting Globalization (PDF)](https://www3.nd.edu/~druccio/Samuelson.pdf)." _Journal of Economic Perspectives_ 18, no. 3 (2004): 135–137, 144–145.
+Samuelson, Paul. "[Where Ricardo and Mill Rebut and Confirm Arguments of Mainstream Economists Supporting Globalization (PDF)](https://www3.nd.edu/~druccio/Samuelson.pdf)." _Journal of Economic Perspectives_ 18, no. 3 (2004): 135–137, 144–145.
 
 Pisano, Gary and Willy Shih. "[Restoring American Competitiveness](https://hbr.org/2009/07/restoring-american-competitiveness)." _Harvard Business Review_ (2009): 114–125.
 
-Nahm, Jonas and Steinfeld, Edward. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Scale-Up Nation: China's Specialization in Innovative Manufacturing (PDF)](http://www.hbs.edu/faculty/conferences/2013-bgie/Documents/SteinfeldNahm.pdf)." _World Development_ 54 (2014): 228–300.
+Nahm, Jonas and Steinfeld, Edward. "[Scale-Up Nation: China's Specialization in Innovative Manufacturing (PDF)](http://www.hbs.edu/faculty/conferences/2013-bgie/Documents/SteinfeldNahm.pdf)." _World Development_ 54 (2014): 228–300.
 
 \[TILS\] Chapters 4 and 13 (pp. 37–54, 215–239). Manufacturing as an Innovation Policy Change.
 
 Bonvillian, William. "[Donald Trump's Voters and the Decline of American Manufacturing](http://issues.org/32-4/donald-trumps-voters-and-the-decline-of-american-manufacturing/)." _Issues in Science and Technology_ 32 (2016).
 
-MIT Taskforce on Innovation and Production. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Report of the MIT Taskforce on Innovation and Production (PDF)](http://web.mit.edu/pie/news/PIE_Preview.pdf)." Massachusetts Institute of Technology, 2013.
+MIT Taskforce on Innovation and Production. "[Report of the MIT Taskforce on Innovation and Production (PDF)](http://web.mit.edu/pie/news/PIE_Preview.pdf)." Massachusetts Institute of Technology, 2013.
 
-President's Council of Advisors on Science and Technology. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Report to the President Accelerating U.S. Advanced Manufacturing (PDF)](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/PCAST/amp20_report_final.pdf)." Executive Office of the President, 2014, pp. 1–12.
+President's Council of Advisors on Science and Technology. "[Report to the President Accelerating U.S. Advanced Manufacturing (PDF)](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/PCAST/amp20_report_final.pdf)." Executive Office of the President, 2014, pp. 1–12.
 
 
 {{< tdclose >}}
@@ -169,7 +169,7 @@ Bush, Vannevar. "[Science: The Endless Frontier](https://www.nsf.gov/od/lpa/nsf5
 
 Blanpied, William. "[Inventing US Science Policy](https://www.nsf.gov/about/history/nsf50/science_policy.jsp)." _Physics Today_ 51, no. 2 (1988): 34–40.
 
-Singer, Peter. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Federally Supported Innovations: 22 Examples of Major Technology Advances That Stem From Federal Research Support (PDF - 9.9MB)](http://www2.itif.org/2014-federally-supported-innovations.pdf)." The Information Technology & Innovation Foundation, 2014.
+Singer, Peter. "[Federally Supported Innovations: 22 Examples of Major Technology Advances That Stem From Federal Research Support (PDF - 9.9MB)](http://www2.itif.org/2014-federally-supported-innovations.pdf)." The Information Technology & Innovation Foundation, 2014.
 
 Stokes, Donald. _Pasteur's Quadrant: Basic Science and Technological Innovation_. Brookings Institution Press, 1997, pp. 1–25, 45–89. ISBN: 9780815781776. \[Preview with [Google Books](https://books.google.com/books?id=TLKDbvJX86YC&lpg=PA1&dq=donald%20stokes%20pasteur%27s%20quadrant&pg=PA1#v=onepage&q&f=false)\]
 
@@ -187,11 +187,11 @@ Crossing "The Valley of Death" Between Research and Development: The Public-Priv
 {{< tdopen >}}
 
 
-Branscomb, Lewis and Philip Auerswald. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Between Invention and Innovation: An Analysis of Funding for Early-Stage Technology Development (PDF - 4.0MB)](https://www.nist.gov/system/files/documents/2017/05/09/gcr02-841.pdf)." National Institute of Standards and Technology, 2002.
+Branscomb, Lewis and Philip Auerswald. "[Between Invention and Innovation: An Analysis of Funding for Early-Stage Technology Development (PDF - 4.0MB)](https://www.nist.gov/system/files/documents/2017/05/09/gcr02-841.pdf)." National Institute of Standards and Technology, 2002.
 
 Ruttan, Vernon. _Is War Necessary for Economic Growth?: Military Procurement and Technology Development_. Oxford University Press, 2006, pp. 21–31, 91–111. ISBN: 9780195188042. \[Preview with [Google Books](https://books.google.com/books?id=RB6Hl-IxkZUC&lpg=PP1&dq=vernon%20ruttan%20is%20war%20necessary%20for%20economic%20growth&pg=PA21#v=onepage&q&f=false)\]
 
-Fong, Glenn. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Breaking New Ground or Breaking the Rules: Strategic Reorientation in U.S. Industrial Policy (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/016228800560480)." _International Security_ 25, no. 2 (2000): 152–162.
+Fong, Glenn. "[Breaking New Ground or Breaking the Rules: Strategic Reorientation in U.S. Industrial Policy (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/016228800560480)." _International Security_ 25, no. 2 (2000): 152–162.
 
 Yannuzzi, Rick. "[In-Q-Tel: A New Partnership Between the CIA and the Private Sector](https://www.cia.gov/library/publications/intelligence-history/in-q-tel)." _Defense Intelligence Journal_ 9, no. 1 (2000).
 
@@ -248,7 +248,7 @@ Waldrop, Mitchell M. _The Dream Machine: J.C.R. Licklider and the Revolution Tha
 
 Carleton, Tammy. "[The Value of Vision in Radical Technological Innovation](https://purl.stanford.edu/mk388mb2729)" PhD diss., Stanford University, 2010, pp. 62–116.
 
-Fong, Glenn. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[ARPA Does Windows: The Defense Underpinning of the PC Revolution (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.596.8343&rep=rep1&type=pdf)." _Business and Politics_ 3, no. 3 (2001): 213–237.
+Fong, Glenn. "[ARPA Does Windows: The Defense Underpinning of the PC Revolution (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.596.8343&rep=rep1&type=pdf)." _Business and Politics_ 3, no. 3 (2001): 213–237.
 
 Goodrich, Brandon. "[Computer Networks—The Heralds of Resource Sharing (Arpanet, 1972)](https://www.youtube.com/watch?v=GjZ7ktIlSM0)." YouTube. Jul 8, 2014.
 
@@ -276,15 +276,15 @@ Institute of Medicine and National Research Council. _[Enhancing the Vitality of
 
 Cook-Deegan, Robert. "[Does NIH Need a DARPA?](http://issues.org/13-2/cookde/)" _Issues in Science and Technology_ 13, no. 2 (1997).
 
-Infectious Diseases Society of America. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Bad Bugs, No Drugs: As Antibiotic Discovery Stagnates... A Public Health Crisis Brews." IDSA, 2004, pp. 3–28.
+Infectious Diseases Society of America. "Bad Bugs, No Drugs: As Antibiotic Discovery Stagnates... A Public Health Crisis Brews." IDSA, 2004, pp. 3–28.
 
-Food and Drug Administration. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Innovation or Stagnation: Challenge and Opportunity on the Critical Path to New Medical Technologies (PDF)](http://www.who.int/intellectualproperty/documents/en/FDAproposals.pdf)." U.S. Department of Health and Human Services, 2004.
+Food and Drug Administration. "[Innovation or Stagnation: Challenge and Opportunity on the Critical Path to New Medical Technologies (PDF)](http://www.who.int/intellectualproperty/documents/en/FDAproposals.pdf)." U.S. Department of Health and Human Services, 2004.
 
 \[TILS\] Chapter 7, subchapter on Health Delivery (pp. 112–118).
 
 Morrow, Daniel. "Oral History: Dr. J Craig Venter." _Computerworld Honors Foundation International Archives_, 2003, pp. 3–53, 56–58.
 
-President's Council of Advisors on Science and Technology. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Report to the President on Propelling Innovation in Drug Discovery, Development, and Evaluation (PDF - 2.8MB)](https://www.broadinstitute.org/files/sections/about/PCAST/2012%20pcast-fda.pdf)." Executive Office of the President, 2012, pp. v–xiv.
+President's Council of Advisors on Science and Technology. "[Report to the President on Propelling Innovation in Drug Discovery, Development, and Evaluation (PDF - 2.8MB)](https://www.broadinstitute.org/files/sections/about/PCAST/2012%20pcast-fda.pdf)." Executive Office of the President, 2012, pp. v–xiv.
 
 "[Convergence: The Future of Health](http://www.convergencerevolution.net/2016-report/)." Massachusetts Institute of Technology, 2016.
 
@@ -306,7 +306,7 @@ Pacala, Stephen and Robert Socolow. "[Stabilization Wedges: Solving the Climate 
 
 Bonvillian, William and Charles Weiss. "[Taking Covered Wagons East: A New Innovation Theory for Energy and Other Established Technology Sectors](https://doi.org/10.1162/itgg.2009.4.4.289)." _Innovations: Technology, Governance, Globalization_ 4, no. 4 (2009): 289–300.
 
-Robyn, Dorothy. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Statement of Dr. Dorothy Robyn Deputy Under Secretary of Defense Before the House Armed Services Committee Subcommittee on Readiness March 29, 2012 (PDF)](https://www.acq.osd.mil/eie/Downloads/Testimony/robyn_testimony_hasc%20mar292012.pdf)." Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics, 2012.
+Robyn, Dorothy. "[Statement of Dr. Dorothy Robyn Deputy Under Secretary of Defense Before the House Armed Services Committee Subcommittee on Readiness March 29, 2012 (PDF)](https://www.acq.osd.mil/eie/Downloads/Testimony/robyn_testimony_hasc%20mar292012.pdf)." Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics, 2012.
 
 Bonvillian, William and Richard Van Atta. "[ARPA-E and DARPA: Applying the DARPA Model to Energy Innovation](https://doi.org/10.1007/s10961-011-9223-x)." _Journal of Technology Transfer_ (2011), Sections 1, 3, and 4B.
 
@@ -316,7 +316,7 @@ Bonvillian, William. "Addressing the Scaleup Challenge for 'Hard' Technology Sta
 
 _Recommended:_
 
-Socolow, Robert and Stephen Pacala. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[A Plan to Keep Carbon in Check (PDF)](https://pdfs.semanticscholar.org/e79c/5ed831efb52e6f02653893448c476667d012.pdf)." _Scientific American_ (2006): 50–57.
+Socolow, Robert and Stephen Pacala. "[A Plan to Keep Carbon in Check (PDF)](https://pdfs.semanticscholar.org/e79c/5ed831efb52e6f02653893448c476667d012.pdf)." _Scientific American_ (2006): 50–57.
 
 
 {{< tdclose >}}
@@ -342,13 +342,13 @@ Augustine, Norman. "[Is America Falling Off the Flat Earth?](https://doi.org/10.
 
 Romer, Paul. "[Should the Government Subsidize Supply or Demand in the Market for Scientists and Engineers?](http://www.nber.org/papers/w7723)" National Bureau of Economic Research, 2000.
 
-Freeman, Richard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Does Globalization of the Scientific/Engineering Workforce Threaten U.S. Economic Leadership? (PDF)](http://www.nber.org/papers/w11457.pdf)" National Bureau of Economic Research, 2005.
+Freeman, Richard. "[Does Globalization of the Scientific/Engineering Workforce Threaten U.S. Economic Leadership? (PDF)](http://www.nber.org/papers/w11457.pdf)" National Bureau of Economic Research, 2005.
 
-Goldin, Claudia and Lawrence Katz. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Future of Inequality (PDF)](https://assets1c.milkeninstitute.org/assets/Publication/MIReview/PDF/26-33mr43.pdf)." _Milken Institute Review_, July 2009: 26–33.
+Goldin, Claudia and Lawrence Katz. "[The Future of Inequality (PDF)](https://assets1c.milkeninstitute.org/assets/Publication/MIReview/PDF/26-33mr43.pdf)." _Milken Institute Review_, July 2009: 26–33.
 
-Baumol, William. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Education for Innovation: Entrepreneurial Breakthroughs Vs. Corporate Incremental Improvements (PDF)](https://www.biu.ac.il/soc/ec/students/teach/554/data/entrpacadbaumol.pdf)." National Bureau of Economic Research, 2004.
+Baumol, William. "[Education for Innovation: Entrepreneurial Breakthroughs Vs. Corporate Incremental Improvements (PDF)](https://www.biu.ac.il/soc/ec/students/teach/554/data/entrpacadbaumol.pdf)." National Bureau of Economic Research, 2004.
 
-Wilcox, Karen, Sanjay Sarma, and Philip Lippel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Online Education: A Catalyst for Higher Education Reforms (PDF - 5.1MB)](https://oepi.mit.edu/files/2016/09/MIT-Online-Education-Policy-Initiative-April-2016.pdf)." Massachusetts Institute of Technology, 2016.
+Wilcox, Karen, Sanjay Sarma, and Philip Lippel. "[Online Education: A Catalyst for Higher Education Reforms (PDF - 5.1MB)](https://oepi.mit.edu/files/2016/09/MIT-Online-Education-Policy-Initiative-April-2016.pdf)." Massachusetts Institute of Technology, 2016.
 
 \[TILS\] Chapter 7, subchapter on Higher Education (pp. 96–112).
 
@@ -366,7 +366,7 @@ The Future of Work: The Employment-Productivity Debate
 {{< tdopen >}}
 
 
-Brynjolfsson, Erik and Andrew McAfee. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Race Against the Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy (PDF)](http://ebusiness.mit.edu/research/Briefs/Brynjolfsson_McAfee_Race_Against_the_Machine.pdf)." The MIT Center for Digital Business, 2012.
+Brynjolfsson, Erik and Andrew McAfee. "[Race Against the Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy (PDF)](http://ebusiness.mit.edu/research/Briefs/Brynjolfsson_McAfee_Race_Against_the_Machine.pdf)." The MIT Center for Digital Business, 2012.
 
 Autor, David. "[Why Are There Still So Many Jobs? The History and Future of Workplace Automation](https://www.aeaweb.org/articles?id=10.1257/jep.29.3.3)." _Journal of Economic Perspectives_ 29, no. 3 (2015): 3–30.
 
